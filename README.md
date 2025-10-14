@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adityapatil.lovable.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://adityalokhande.lovable.app/"><strong>➥ Live Demo</strong></a>
 </p>
 
 ---
